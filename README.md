@@ -10,8 +10,8 @@ Este é o repositório do desafio da SoftExpert, uma Landing page apresentando a
 <h3>Tecnologias Utilizadas</h3>
 
 - PHP 8: Linguagem de programação utilizada no desenvolvimento do sistema.
-- HTML5: Linguagem de marcação utilizada para estruturar as páginas web.
-- CSS3: Linguagem de estilização utilizada para definir o layout e a aparência do sistema.
+- HTML5: Linguagem de marcação utilizada para estruturar a página web.
+- CSS3: Linguagem de estilização utilizada para definir o layout e a aparência da página.
 - JavaScript: Linguagem de programação utilizada para adicionar interatividade e comportamentos dinâmicos ao sistema.
 - Bootstrap/Tailwing: Frameworks front-end utilizado para facilitar o desenvolvimento responsivo e a estilização do sistema.
 
