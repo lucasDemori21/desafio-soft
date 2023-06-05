@@ -57,7 +57,7 @@
                 <div class="modal-dialog">
                     <div class="modal-content" style="height: 500px; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
                         <div class="modal-header">
-                            <button type="button" style="color: #FFF;" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
                             <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/NLcTcsdO86U?rel=0" frameborder="0"></iframe>
@@ -67,16 +67,15 @@
             </div>
             <div class="modal fade" id="solicitarModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
-                    <div class="modal-content" style="height: 500px; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
+                    <div class="modal-content" style="color:#FFF; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
                         <div class="modal-header">
-                            <button type="button" style="color: #FFF;" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
                             <form>
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" style="color: #FFF;" class="form-label">Email</label>
                                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                                 </div>
                                 <div class="mb-3">
                                     <label for="inputName" style="color: #FFF;" class="form-label">Nome</label>
@@ -90,16 +89,15 @@
             </div>
             <div class="modal fade" id="demoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
-                    <div class="modal-content" style="height: 500px; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
+                    <div class="modal-content" style="color:#FFF; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
                         <div class="modal-header">
-                            <button type="button" style="color: #FFF;" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
                             <form>
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" style="color: #FFF;" class="form-label">Email</label>
                                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                                 </div>
                                 <div class="mb-3">
                                     <label for="inputName" style="color: #FFF;" class="form-label">Nome</label>
