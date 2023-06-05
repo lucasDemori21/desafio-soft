@@ -60,7 +60,7 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <iframe style="width: 100%; height: 100%;" src="https://www.youtube.com/embed/NLcTcsdO86U?rel=0" frameborder="0"></iframe>
+                            <iframe style="width: 100%; height: 100%;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/NLcTcsdO86U?rel=0" frameborder="0"></iframe>
                         </div>
                     </div>
                 </div>

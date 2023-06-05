@@ -99,13 +99,12 @@ require 'header.php';
                 <span style="color: #285284; font-size: 16px;">Nesta mesma direção, as pressões e desafios para a competitividade aumentam a cada ano, em sintonia com o crescimento das expectativas dos clientes e acionistas que continuamente impactam diretamente as estratégias do negócio.</span>
             </p>
         </div>
-        <button class="accordion">Continuar lendo</button>
-        <div class="panel">
-            <div class="wpb_wrapper">
+        <button class="accordion" style="margin-bottom: 1%;">Continuar lendo</button>
+        <div class="panel" style="margin-bottom: 5%;">
+            <div class="wpb_wrapper" style="margin: auto;">
                 <p>Pressões por preço, aumento de maturidade dos produtos e serviços, e inovações tecnológicas são obstáculos presentes no sucesso do negócio, onde apenas um destes itens isoladamente não mais mantém a fidelidade dos seus clientes e mercados de atuação.</p>
                 <p>Diante destas pressões de ordem econômica e de mercado, os líderes da organizações enfrentam continuamente muitas questões complicadas. Como maximizar os lucros da organização sem sacrificar um nível diferenciado de atendimento aos clientes? Como aumentar ao mesmo tempo a satisfação dos clientes e dos funcionários? Como atender as exigências regulamentares eficazmente sem prejudicar a produtividade das operações? Como recrutar e reter os profissionais talentosos? Como assegurar que as metas da organização são perseguidas por cada individuo na organização?</p>
                 <p>O Modelo de Excelência em Gestão é o uso sistemático das práticas e ferramentas chaves na gestão do negócio, com o objetivo de elevar o desempenho em todas as áreas e operações da organização fundamentado nos princípios da melhoria contínua, gestão preventiva e foco em resultados. Entre as ferramentas aplicadas estão o Balanced Scorecard (BSC), gestão por processos, GRC, qualidade total (TQM), Lean Six Sigma, gestão de projetos, e diversas outras.</p>
-                <p style="text-align: center;"></p>
             </div>
         </div>
     </section>
