@@ -152,20 +152,18 @@ background-color: transparent;
     justify-content: center;
 }
 .logo img {
-    width: 55%;
-    min-width: 200px;
+    width: 25%;
+    min-width: 250px;
 }
 .image-demo img{
     margin: 10% 0;
 }
 
 .sec-2{
-    background: url("https://www.softexpert.com/ext/teste-estagio-devweb/quebra-cabecas.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
     width: 100%;
-    
 }
 
 .glide__arrow {

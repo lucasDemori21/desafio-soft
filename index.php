@@ -30,6 +30,7 @@ require 'header.php';
         </div>
     </div>
     <section class="sec-2">
+        <img src="https://www.softexpert.com/ext/teste-estagio-devweb/quebra-cabecas.png" alt="">
     </section>
     <?php
     require 'slides.php';

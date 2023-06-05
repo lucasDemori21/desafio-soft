@@ -18,7 +18,7 @@
 <body>
     <div class="image">
         <div class="logo">
-            <img src="https://www.softexpert.com/wp-content/webp-express/webp-images/uploads/2023/04/logo-lp-principal.png.webp" alt="">
+            <img src="https://www.softexpert.com/wp-content/webp-express/webp-images/uploads/2023/04/logo-lp-principal.png.webp" alt="logo">
         </div>
         <div class="titulo-suite">
             Simplesmente inovadora
