@@ -35,3 +35,17 @@ const config = {
     }
   }
   new Glide('.glide2', config2).mount()
+
+  function toggleAccordion() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  }
+  var accordions = document.getElementsByClassName("accordion");
+  for (var i = 0; i < accordions.length; i++) {
+    accordions[i].addEventListener("click", toggleAccordion);
+  }

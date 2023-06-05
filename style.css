@@ -205,4 +205,55 @@ background-color: transparent;
     height: 300px;
     background-size: cover;
     background-position: center;
-    cursor: pointer;}
+    cursor: pointer;
+}
+
+.sec-4{
+    width: 70%;
+    display: flex;
+    margin: auto;
+  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.accordion {
+    color: #2e2d6d;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  @media (max-width: 768px) {
+    .container-section{
+        flex-direction: column !important;
+
+    }
+    .wpb_wrapper p{
+        margin: 5% 0 !important;
+    }
+    #txt-demo-suite{
+        width: 90% !important;
+    }
+    .container-btns-header{
+        flex-wrap: wrap;
+    }
+    .btn-player-video-suite{
+        margin-top: 5%;
+        margin-right: 5% !important;
+    }
+  }
