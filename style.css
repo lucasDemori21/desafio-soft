@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    width: 100%;
+}
 
 .image {
     background-image: url("https://www.softexpert.com/wp-content/webp-express/webp-images/uploads/2023/04/fundo-novo.png.webp");
@@ -13,7 +16,6 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-direction: column;
 }
 
@@ -26,13 +28,16 @@
     position: relative;
     display: flex;
     justify-content: center;
-    color: #fff
+    color: #fff;
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 .titulo-suite {
     padding: 30px 0 30px 0;
     font-size: 36px;
     font-weight: 500;
+    text-align: center;
 }
 
 .container-slogan {
@@ -51,11 +56,12 @@
 .btn-header1 {
     margin-right: 10px;
     background-color: #DF4B62;
+    width: 100%;
 }
 
 .btn-header2 {
     background-color: #F80;
-    
+    width: 100%;
 }
 .wpb_wrapper p{
     margin: 1% 0;
@@ -82,7 +88,7 @@
     justify-content: center;
     align-items: center;
     padding-top: 40px;
-    margin-bottom: 30px;
+    margin: 0 auto 30px auto;
 }
 
 .blob {
@@ -170,12 +176,12 @@ background-color: transparent;
 }
 
 .sec-3{
-    margin-top: 2%;
     height: auto;
     display: flex;
     background: rgb(240, 255, 255);
     justify-content: center;
     width: 100%;
+    margin: auto;
 }
 .cubo{
     width: 50%;
@@ -255,5 +261,22 @@ background-color: transparent;
     .btn-player-video-suite{
         margin-top: 5%;
         margin-right: 5% !important;
+    }
+    .sec-3{
+        flex-direction: column !important;
+    }
+    .cubo{
+        width: 80% !important;
+        margin: 2% auto !important;
+    }
+    .textos{
+        width: 80% !important;
+        margin: 2% auto !important;
+
+    }
+   .container-btns-header{
+        width: 50% !important;
+        margin: auto !important;
+
     }
   }
