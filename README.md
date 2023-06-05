@@ -30,4 +30,4 @@ Para atender a demanda solicitada foi desenvolvido em padrão first mobile segui
   http://localhost/caminho-para-o-sistema
   
   # Dúvidas e questionamentos
-  <a href="https://www.linkedin.com/in/lucas-demori21/">
+  <a href="https://www.linkedin.com/in/lucas-demori21/">Linkedin</a>
