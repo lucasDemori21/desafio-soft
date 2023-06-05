@@ -1,5 +1,7 @@
 # Desafio SoftExpert
-Este é o repositório do desafio da SoftExpert, uma Landing page apresentando a empresa. A página é responsiva e possui suporte para dispositivos móveis.
+Esse projeto é para atender o desafio estabelicido pela SoftExpert como parte do processo seletivo para contratação para vaga de estágio de desenvolvimento web. 
+Como objetivo primário foi determinado a criação de uma landing page nos parâmetros estabelecidos pela empresa. 
+Para atender a demanda solicitada foi desenvolvido em padrão first mobile seguindo para ajustes em browsers desktop mantendo a responsividade para os demais dispositivos móveis.
 
 <h3>Funcionalidades</h3>
 
@@ -17,8 +19,8 @@ Este é o repositório do desafio da SoftExpert, uma Landing page apresentando a
 
 <h3>Requisitos</h3>
 
-- Servidor web (por exemplo, Apache) configurado com suporte a PHP.
-- Navegador web atualizado para acessar o sistema.
+- Servidor web (Apache) configurado com suporte a PHP.
+- Browser atualizado para acessar o sistema.
 
 <h3>Instalação e Configuração</h3>
 
@@ -26,3 +28,6 @@ Este é o repositório do desafio da SoftExpert, uma Landing page apresentando a
   git clone https://github.com/lucasDemori21/desafio-soft.git
 - Inicie o servidor web e abra o sistema no navegador:<br>
   http://localhost/caminho-para-o-sistema
+  
+  # Dúvidas e questionamentos
+  <a href="https://www.linkedin.com/in/lucas-demori21/">
