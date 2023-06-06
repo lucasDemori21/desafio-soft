@@ -89,6 +89,12 @@ html{
     align-items: center;
     padding-top: 40px;
     margin: 0 auto 30px auto;
+    flex-direction: row;
+    width: 100%;
+}
+
+.btns-header-suite {
+    display: flex;
 }
 
 .blob {
@@ -116,11 +122,10 @@ background-color: transparent;
     }
 }
 
-.btn-close{
-    --bs-btn-close-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e") !important;
-    --bs-btn-close-color: #dfdfdf !important;
+.modal-content .modal-header {
+    display: flex;
+    justify-content: flex-end;
 }
-
 
 .sec-1{
     width: 70%;
@@ -246,37 +251,37 @@ background-color: transparent;
 
   @media (max-width: 768px) {
     .container-section{
-        flex-direction: column !important;
-
+        flex-direction: column;
     }
     .wpb_wrapper p{
-        margin: 5% 0 !important;
+        margin: 5% 0;
     }
     #txt-demo-suite{
-        width: 90% !important;
+        width: 90%;
     }
     .container-btns-header{
         flex-wrap: wrap;
     }
-    .btn-player-video-suite{
+    .container-btns-header .btn-player-video-suite{
         margin-top: 5%;
-        margin-right: 5% !important;
+        margin-right: 5%;
     }
     .sec-3{
-        flex-direction: column !important;
+        flex-direction: column;
     }
-    .cubo{
-        width: 80% !important;
-        margin: 2% auto !important;
+    .sec-3 .cubo, .textos{
+        width: 80%;
+        margin: 2% auto;
     }
-    .textos{
-        width: 80% !important;
-        margin: 2% auto !important;
-
+    .btns-header-suite {
+        display: block;
     }
-   .container-btns-header{
-        width: 50% !important;
-        margin: auto !important;
-
+    .image .container-btns-header{
+        width: 90%;
+        margin: auto;
+        flex-direction: column;
+    }
+    .btn-header1, .btn-header2{
+        margin: 1% 0;
     }
   }
