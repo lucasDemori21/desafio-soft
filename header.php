@@ -85,7 +85,9 @@
                                     <label for="inputName" style="color: #FFF;" class="form-label">Nome</label>
                                     <input type="text" class="form-control" id="inputName">
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <div class="botao-modal">
+                                    <button type="submit" class="btn btn-primary">Enviar</button>
+                                </div>
                             </form>
                         </div>
                     </div>
@@ -109,7 +111,9 @@
                                     <label for="inputName" style="color: #FFF;" class="form-label">Nome</label>
                                     <input type="text" class="form-control" id="inputName">
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <div class="botao-modal">
+                                    <button type="submit" class="btn btn-primary">Enviar</button>
+                                </div>
                             </form>
                         </div>
                     </div>

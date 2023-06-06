@@ -287,3 +287,8 @@ background-color: transparent;
         margin: 1% 0;
     }
   }
+
+  .botao-modal{
+    display: flex;
+    justify-content: center;
+  }
