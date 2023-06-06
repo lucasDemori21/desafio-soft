@@ -76,6 +76,7 @@
                             </button>
                         </div>
                         <div class="modal-body">
+                            <label style="margin-bottom: 5%;" >Por favor, preencha o formulário para entrarmos em contato.</label>
                             <form>
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" style="color: #FFF;" class="form-label">Email</label>
@@ -96,12 +97,13 @@
             <div class="modal fade" id="demoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content" style="color:#FFF; background: rgba(0,0,0,0.8); border: 1px solid #FFF;">
-                        <div class="modal-header">
+                        <div class="modal-header">        
                             <button type="button" class="btn" data-bs-dismiss="modal" aria-label="Close">
                                 <img style="width: 20px; height: 20px;" src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFF'><path d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/></svg>">
                             </button>
                         </div>
                         <div class="modal-body">
+                        <label style="margin-bottom: 5%;" >Por favor, preencha o formulário para download.</label>
                             <form>
                                 <div class="mb-3">
                                     <label for="exampleInputEmail1" style="color: #FFF;" class="form-label">Email</label>
